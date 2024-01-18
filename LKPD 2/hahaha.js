@@ -12,7 +12,7 @@ let j = 1;
 let m =  30;
 let d = 40;
 let total = ( (j * 3600) + ( m * 60) + d )
-console.log ('hasil dari 1 Jam 30 Menit dan 40 Detik adalah ' + total + ' Detik')
+console.log (`${total} detik`)
 
 // BATAS
 
